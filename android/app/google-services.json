@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1022399869306",
+    "firebase_url": "https://ride-share-project-fa02c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ride-share-project-fa02c",
+    "storage_bucket": "ride-share-project-fa02c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022399869306:android:5eabee63717b7f329866c3",
+        "android_client_info": {
+          "package_name": "com.stephenkachikwu.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022399869306-h5c5p7akfvjd6tbfv8nhvkjjo6d1v01o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIsW63yH11zWrNv87xlFxp9F-CAnmnfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022399869306-h5c5p7akfvjd6tbfv8nhvkjjo6d1v01o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022399869306:android:c3b12d0183095a4d9866c3",
+        "android_client_info": {
+          "package_name": "com.stephenkachikwu.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022399869306-h5c5p7akfvjd6tbfv8nhvkjjo6d1v01o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIsW63yH11zWrNv87xlFxp9F-CAnmnfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022399869306-h5c5p7akfvjd6tbfv8nhvkjjo6d1v01o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
